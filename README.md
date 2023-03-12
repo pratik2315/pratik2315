@@ -2,7 +2,7 @@
 
 - 💌 Email - pratikhaldankar360@gmail.com
 - 🔭 I’m currently working with Android and any project which pushes me out of my comfort zone!
-- 🌱 I’m currently learning Data Structures and Algorithms
+- 🌱 I’m currently learning about AR/VR 🤖🥽
 - 👯 I’m looking to collaborate with Open Source Community and Learn stuff
 - 🤔 I’m looking for help with DevOps
 - 💬 Ask me about Android, Python or any Tech related stuff🤓! 
